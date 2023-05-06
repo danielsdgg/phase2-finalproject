@@ -25,7 +25,7 @@
       "healthStatus": "healthy",
       "AvailabilityStatus": "Available",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4nkl1tS31qyERIjCpm_WqHwLNGMC7TF8xCQ&usqp=CAU",
-      "likes": "2",
+      "likes": "21111",
       "id": 3
     },
     {
@@ -40,7 +40,7 @@
       "AvailabilityStatus": "Available",
       "image": "https://m.media-amazon.com/images/I/71kNvlpS9GL._SY355_.jpg",
       "id": 4,
-      "likes": 15
+      "likes": 16
     },
     {
       "id": 5,
